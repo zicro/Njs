@@ -1,0 +1,12 @@
+.title{
+    color: #32CD32;
+}
+
+.lnk-ss{
+    margin:10px;
+    background-color: #ccc;
+}
+
+/* this kind of files support only :
+ 1 - classes (.class_name)  
+ 2 - id's (#id_name)  */
